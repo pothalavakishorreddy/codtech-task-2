@@ -1,1 +1,113 @@
+What is an online marketplace?
+An online marketplace is a website or mobile application that connects buyers and sellers.  Online marketplaces date back to the early days of the internet; Ebay, Craigslist, and Angie’s List were all founded in 1995 as the internet was just gaining adoption.
+
+Online marketplaces have come a long way and show no signs of stopping.  In this piece, we’ll dive into the various types of marketplaces, the benefits marketplaces have, and examples of the best online marketplaces gaining traction today.  
+
+Tip: Check out this piece on 5 things marketplace sellers need to know about sales tax
+Online marketplace business models types
+While there are a wide variety of online marketplaces out there, nearly every one of them falls into one of the following business models.
+
+Depending on if your method is omnichannel marketing or multi-channel marketing, here are the top models for online selling sites.
+
+1. Ad-based / pay for placement or features
+Examples: Yelp, Houzz, Craigslist, Indeed
+
+Ad-based marketplaces charge suppliers for premium placement.  Often, the marketplace has free listings for suppliers in curated lists.  For example, if you visit Yelp and search for restaurants, it will present you with a list of the top 10 restaurants in your area, ordered by their algorithm. Businesses that are willing to pay a premium can purchase ad space at the top of the results in order to get more exposure.   
+
+In some cases, such as Craigslist Jobs, the only way to appear in the results is to pay a fee.
+
+2. Transactional
+Examples: Uber, LawnStarter, Ebay, Expedia, Upwork
+
+Transactional marketplaces make money when a transaction occurs.  These types of marketplaces typically take a percentage of the overall transaction.  The benefit here is that the suppliers only have to pay when they make money. On-demand services like Uber and Taskrabbit fall into this category.
+
+Some transactional marketplaces actually process the transaction, and pay sellers their earnings – minus fees and commissions.  Other marketplaces, like CreditCards.com and Student Loan hero, earn money via affiliate links.
+
+3. Lead generation
+Examples: Homeadvisor, Thumbtack, Upcounsel
+
+Some marketplaces capture information from the demand side, and then sell that information - known as a lead - to suppliers.  
+
+For example, if you wanted a patio installed, you might visit Thumbtack and answer a few questions about the project. Thumbtack will then give that information to local contractors who it thinks can complete that project (based on the questions answered) and charge them for that lead.
+
+TIP: Learn about the best lead generation software in 2019.
+
+Vertical vs. horizontal marketplaces
+When it comes to online marketplaces, there is a spectrum that represents how deep vs. how wide the marketplace’s scope is.
+
+On the one end of the spectrum, there are horizontal marketplaces – which cover a wide variety of products or services.  Amazon marketplace is the widest of all, where anybody can sell almost any physical good. Craigslist is another example, covering nearly every type of buying and selling that occurs locally.  Homeadvisor, which recently merged with Angie's List, covers nearly every type of home service professional.
+
+Vertical marketplaces, on the other end of the spectrum, focus exclusively on a small niche.  Uber, for example, focuses on transportation. Homeaway focuses on vacation rentals, and Sparefoot focuses on self storage.
+
+services-marketplaces
+
+As seen in the graphic above, horizontal marketplaces came into prominence during the early days of the internet when the main consumer problem was discoverability.  Any player who could aggregate all the supply would typically win. As time progressed and there are fewer opportunities, more companies started going deeper into verticals, gaining the ability to own more parts of the buying cycle.  
+
+Benefits of online marketplaces for buyers
+Marketplaces typically offer not just one, but several benefits to buyers in order to exist. The following are some of the benefits that marketplaces use to attract customers.
+
+1. Ease of use
+Nearly every marketplace offers a more convenient experience than the offline counterpart.  For example, booking a hotel through Snaptravel can be done in a few minutes via Messenger. With Instacart, you can order groceries in minutes, rather than driving to the store and walking up and down the aisles.  
+
+2. Better discovery / comparability
+Many marketplaces make it easy for buyers to compare and contrast. Tripadvisor allows you to filter, compare, and read reviews before booking a travel destination. Yelp does the same for restaurants and local businesses. No need to visit several websites or make phone calls – all the relevant information from pricing to business hours is in one convenient place.  
+
+3. Lower pricing
+Some marketplaces have network effects that allow them to give buyers lower pricing. The cost of Uber, for example, is far cheaper than taking a taxi cab in most cities.
+
+4. Higher quality
+Many marketplaces collect feedback from customers, usually in the form of reviews. This allows the marketplace to curate options so that buyers are always given an option they will be happy with. For example, at LawnStarter, we require our lawn care professionals to maintain minimum average ratings to keep the overall quality of our supply better than average.  
+
+Additionally, many marketplaces will do things like background and license checks, and display that information for buyers to see.  
+
+5. Unique products or experiences
+Before Ebay was the giant, auction-based marketplace it is today, it was a niche online auction site for buying and selling rare beanie babies.  You simply couldn’t find them anywhere else.
+
+Etsy is another example - many of the good sold are artisanal, hand-crafted goods that would be hard to come by elsewhere.  
+
+Benefits of online marketplaces for sellers
+A marketplace must also offer a strong value proposition to sellers – and, typically, that value proposition is economic in nature.  Here are a few of these benefits.
+
+1. Incremental revenue
+Most marketplaces provide some level of increased revenue to sellers.  A hotel may have to pay a fee to accept bookings through Expedia. However, if they aren’t on Expedia, they forgo that revenue.
+
+2. Increased utilization
+The latest generation of marketplaces has taken advantage of increased utilization.  Utilization is the time a business spends actually earning revenue vs. the overall time it incurs expenses.
+
+Restaurants, for example, have slow times in which they do not have many customers. However, they still need to pay for marginal costs such as staff and fixed costs – like kitchen equipment.  Companies like Grubhub bring incremental demand so that a restaurant can make more money relative to its sunk costs.
+
+In a similar way, cab drivers typically spent 30 percent of their time looking for fares. With Uber, that number is under 5 percent. Hence, a Uber driver can take more passengers, earning more money for the time they are driving.  
+
+3. Ease of use
+Many marketplaces offer convenience benefits. For example, your average handyman probably doesn’t have the time or know how to do SEO or buy Google Ads.  But they may be able to respond to leads on Thumbtack, as it’s easier.
+
+Here at LawnStarter, we handle payment, insurance, scheduling, and a number of back-office duties that our lawn care professionals would typically have to do themselves at night or hire an office manager to do.  They just show up and mow, and the money is deposited into their accounts.
+
+Successful marketplaces you may not have heard of
+No piece on marketplaces would be complete without examples, but rather than rehash the examples that have had more than their fair share of attention, we’ll dive into a few up-and-coming marketplaces that are disrupting their industries.  
+
+1. Snaptravel
+Travel is a large competitive space dominated by Expedia, Tripadvisor, and Priceline.  Snaptravel is carving out its own slice of the pie by allowing travelers to book hotels through Messenger or text.
+
+travel-marketplace
+
+The experience is far simpler, but Snaptravel doesn’t stop there. In fact, once a hotel is booked, the staff actually calls hotels and attempts to get free room upgrades. It’s this customer focus that has led to the company completing 350,000 nights booked and raising over $21 million in funding.
+
+2. YourMechanic
+YourMechanic is an on-demand, transactional marketplace that matches consumers to local mechanics.  The company has raised $38 million in funding and operates in some 2,000 cities. To get service, you enter details about your car and the issue you’re having, and then select an appointment slot - an extremely convenient service.  
+
+marketplace-for-mechanics
+
+Additionally, the company’s website claims that service is cheaper through Yourmechanic due to reduced overhead of not needing a physical shop.
+
+3. Opendoor
+Opendoor is a marketplace with a business model that few, if any other, companies have attempted. With Opendoor, a home seller can get an instant price for their home and sell it to them.
+
+business-marketplace
+
+So, Opendoor actually owns the home. Then the company flips the house to another buyer. Opendoor charges a service fee to the seller (just as a realtor would) and earns money from the difference of their buying price and selling price. Opendoor has raised just over $1 billion.
+
+4. DogVacay / Rover
+Traditionally dog owners have had two options for pet sitting: friends and kennels. But not everyone wants to impose on friends, and no dog owner wants to put their furry friend in a kennel. That’s where DogVacay and Rover (the two merged) come in. The sites match dog owners with dog sitters, and earns a commission on the transaction.  
+
 # codtech-task-2
